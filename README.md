@@ -1,6 +1,7 @@
 # project-lancelot-fixed
 
 DONT FORGET TO INSTALL Shared Assets mod (Steam Workshop ID 3008650516).
+I made it in game version 1.057, and from what i hear newer version crashes on these mods. So, be careful.
 
 This mod tries to cover the gaps left by Lancelot Project, filling it in by reusing its own assets. it now should cover all nations and all units. The nations have reused voicelines so there is only russian and german voicelines. It covers Soviet, Germany, Finland, USA, Commonwealth (British). All nations pretty much.
 
